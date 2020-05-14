@@ -1,0 +1,2 @@
+# skillCheck
+Paizaスキルチェック用レポジトリ
